@@ -2,6 +2,8 @@ package com.iftm.course.entities;
 
 import java.io.Serializable;
 
+
+@Entity
 public class User implements Serializable {
 
 	/**
